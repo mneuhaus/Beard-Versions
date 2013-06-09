@@ -1,19 +1,19 @@
 [
 	{
 		"name": "beard.phar",
-		"sha1": false,
+		"sha1": "d3cc64c1c93825de027c4004c9084f4e56d73d21",
 		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.0.1.phar",
 		"version": "0.0.1"
 	},
 	{
 		"name": "beard.phar",
-		"sha1": false,
+		"sha1": "fa46754fbcb83be8f0a2c57ea6f8fe2504d1cbed",
 		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.0.2.phar",
 		"version": "0.0.2"
 	},
 	{
 		"name": "beard.phar",
-		"sha1": false,
+		"sha1": "51fd10e32faf9f4896b1a9a199e1683ec436a0ea",
 		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.0.3.phar",
 		"version": "0.0.3"
 	}

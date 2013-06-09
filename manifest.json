@@ -10,5 +10,11 @@
 		"sha1": false,
 		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.0.2.phar",
 		"version": "0.0.2"
+	},
+	{
+		"name": "beard.phar",
+		"sha1": false,
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.0.3.phar",
+		"version": "0.0.3"
 	}
 ]

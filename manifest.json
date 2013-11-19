@@ -76,5 +76,11 @@
 		"sha1": "f10e96fcd050ec3b611aa8a91b438b16767dca1f",
 		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.4.0.phar",
 		"version": "0.4.0"
+	},
+	{
+		"name": "beard.phar",
+		"sha1": "0cd89d11204d2d9486cc1408179a4546f251fa38",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.5.0.phar",
+		"version": "0.5.0"
 	}
 ]

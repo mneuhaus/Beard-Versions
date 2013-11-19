@@ -88,5 +88,11 @@
 		"sha1": "74303bedf4e82fd940f63ee556bb5190ea6ea859",
 		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.6.0.phar",
 		"version": "0.6.0"
+	},
+	{
+		"name": "beard.phar",
+		"sha1": "e3abb4e633d792d6312e301a11416562f8dd1e83",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Beard-Versions\/master\/beard-0.6.1.phar",
+		"version": "0.6.1"
 	}
 ]
